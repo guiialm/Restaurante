@@ -1,0 +1,25 @@
+no header usaremos "class="navbar navbar-expand-lg sticky-top" para que fique bunitinho em cima, do lado, tire as marcaçoes.
+
+- ja no titulo, h1 e bom por ''class="navbar-brand"
+
+- <ul class="nav nav-pills" tira as bolinhas dos links do menu, deixa ajustadinho (deixa com aparencia de butao)
+
+-<li class="nav-item">
+                        <a href="#" class="nav-link active ">Sobre o restaurante</a>
+                        (necessario colocar  o nav item, e nav lind em cada ''A'')
+
+
+
+                        BUTAO DE RECOLHER TIPO HAMBURGUER
+                        <h1>
+                        <button class="navbar-toggler>
+                <span class="navbar-toggler-item"> (cria o hamburguer)
+
+                </span>
+            </button>
+
+
+
+            <nav class="navbar-collapse collapse">
+            (adicionando isso no nav, faz com que ao diminuir a tela, suma os icones do menu)
+
