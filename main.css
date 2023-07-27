@@ -17,11 +17,20 @@ body {
     color: rgb(241, 243, 243);
 }
 
-.navbar-brand {
-    font-family: Pacifico;
-}
 
 .navbar-toggler {
     background-color: #fff;
     border: none;
+}
+
+.section-tittle {
+    font-family: Pacifico;
+}
+
+.section-tittle span {
+    color: #e15f41;
+}
+
+#sobre-o-restaurante {
+    background-color: #ffeae6;
 }
