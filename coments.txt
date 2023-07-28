@@ -23,3 +23,6 @@ no header usaremos "class="navbar navbar-expand-lg sticky-top" para que fique bu
             <nav class="navbar-collapse collapse">
             (adicionando isso no nav, faz com que ao diminuir a tela, suma os icones do menu)
 
+
+
+07:43 buscar jessicao
